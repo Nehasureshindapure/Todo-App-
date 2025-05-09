@@ -1,0 +1,15 @@
+.bo{
+    align-items: center;
+    background-color: palevioletred;
+    justify-content: center;
+    border: 3px solid black;
+}
+.box{
+    background-color: greenyellow;
+}
+.box button{
+    align-content: center;
+}
+#inp{
+    border: 2px solid black;
+}
